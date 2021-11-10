@@ -1,5 +1,10 @@
 # buildspace Solana GIF Portal Project
 
+# Demo
+https://solana-program.herokuapp.com/
+
+Add some GIF's through the link!
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
